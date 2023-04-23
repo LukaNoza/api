@@ -1,0 +1,30 @@
+#price-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .price-element {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  .currency-code {
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  .currency-symbol {
+    font-size: 16px;
+    margin-right: 5px;
+  }
+  
+  .price-rate {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
